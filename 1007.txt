@@ -1,0 +1,19 @@
+*************test 1007*************
+
+2018-08-17 11:19:19.681 -04:00 Starting installer...
+2018-08-17 11:19:20.694 -04:00 Serial number at launch: PRINCESSLEIA
+2018-08-17 11:19:20.805 -04:00 Write filters are enabled
+2018-08-17 11:19:20.805 -04:00 Updating launch path to D:\HemoSonicsTemp\extract\OSConfigurationApp.exe
+2018-08-17 11:19:20.805 -04:00 Disabling write filters
+2018-08-17 11:19:21.101 -04:00 Write filters will be disabled on reboot
+2018-08-17 11:19:21.101 -04:00 Rebooting
+2018-08-17 11:19:21.119 -04:00 OUTPUT from 'cmd.exe' with args: '/c shutdown /r /t 0':
+
+2018-08-17 11:19:52.303 -04:00 Starting installer...
+2018-08-17 11:19:52.710 -04:00 Serial number at launch: PRINCESSLEIA
+2018-08-17 11:19:53.666 -04:00 Write filters are disabled
+2018-08-17 11:19:53.666 -04:00 Checking graphics driver state
+2018-08-17 11:19:55.666 -04:00 OUTPUT from 'powershell.exe' with args: '-ExecutionPolicy Bypass (Get-WmiObject Win32_VideoController).Name':
+Intel(R) HD Graphics 4600
+
+*************Test 1007***********************
