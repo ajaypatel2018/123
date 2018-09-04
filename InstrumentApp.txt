@@ -1,3 +1,6 @@
+************Line Added by Ajay Patel ******************
+
+
 2018-08-20 07:47:12.250 -04:00 Starting the Quantra Application [Information] (1) [InstrumentApp] [1.5.23.0]
 2018-08-20 07:47:12.265 -04:00 Reading configuration from folder: c:\HemoSonicsConfig\configuration [Information] (1) [InstrumentApp] [1.5.23.0]
 2018-08-20 07:47:12.265 -04:00 Storing data to folder: d:\HemoSonicsData [Information] (1) [InstrumentApp] [1.5.23.0]
@@ -5,8 +8,8 @@
 2018-08-20 07:47:12.459 -04:00 Application domain report touchscreen present: True [Information] (1) [InstrumentApp] [1.5.23.0]
 2018-08-20 07:47:13.393 -04:00 Executing read request: settings/InstrumentSettings [Information] (1) [SystemDataReader] [1.5.23.0]
 2018-08-20 07:47:13.505 -04:00 Executing read request: settings/DateAndTimeSettings [Information] (1) [SystemDataReader] [1.5.23.0]
-2018-08-20 07:47:13.520 -04:00 New SystemEvent: SystemStarted at 2018-08-20T11:47:13.5207068Z User=, Patient=, Cartridge=, RunId=, Details=
- [Information] (9) [SystemDataWriter] [1.5.23.0]
+2018-08-20 07:47:13.520 -04:00 New SystemEvent: SystemStarted at 2018-08-20T11:47:13.5207068Z User=, Patient=, Cartridge=, RunId=, Details
+***************deleted line********************* 
 2018-08-20 07:47:13.520 -04:00 Executing write request: systemevent [Information] (9) [SystemDataWriter] [1.5.23.0]
 2018-08-20 07:47:13.551 -04:00 Executing read request: settings/DateAndTimeSettings [Information] (1) [SystemDataReader] [1.5.23.0]
 2018-08-20 07:47:13.770 -04:00 Running System POST [Information] (9) [RunTestMachine] [1.5.23.0]
